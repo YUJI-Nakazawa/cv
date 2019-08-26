@@ -33,6 +33,9 @@ VPC | S3 | Cloud Front | API Gateway | Lambda | EC2 | ECS(Fargate) | Route53 | A
 ### SaaS/PaaS
 GitHub | CircleCI | Sentry
 
+### OS
+Ubuntu18.04 | Mac | Windows
+
 ### その他
 Terraform | Docker | nginx | unicorn | Apache | Elasticsearch | Kibana
 
