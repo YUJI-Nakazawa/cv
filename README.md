@@ -18,7 +18,7 @@
 基本的にすべて実業務で使用した技術だけを列挙しています。(習熟度順)
 
 ### 言語
-Python | Go | Ruby | PHP | JavaScript
+Python | Go | Ruby | PHP | JavaScript | matlab
 
 ### フレームワーク等
 Django | Flask | jQuery
@@ -30,14 +30,17 @@ MySQL | mongoDB
 #### AWS
 VPC | S3 | Cloud Front | API Gateway | Lambda | EC2 | ECS(Fargate) | Route53 | ACM | SSM | IAM | Cognito | Elasticsearch Service | SQS | SNS | SES | Cloud Formation | Cloud Watch | AWS Organizations
 
+### プロジェクト管理系
+Github | BackLog | Redmine | Asana | Trello
+
 ### SaaS/PaaS
-GitHub | CircleCI | Sentry
+CircleCI | Sentry
 
 ### OS
-Ubuntu18.04 | Mac | Windows
+Ubuntu18.04 | Mac | Windows | Android
 
 ### その他
-Terraform | Docker | nginx | unicorn | Apache | Elasticsearch | Kibana
+Terraform | Docker | nginx | unicorn | Apache | Elasticsearch | Kibana | Redmine | 
 
 ## バリューを発揮しやすい業務
 - クラウドアーキテクチャ設計
