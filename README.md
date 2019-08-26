@@ -7,7 +7,7 @@
 | Name | 中澤 裕司(Yuji Nakazawa) |
 | Location | 埼玉県 草加市(Soka-city, Saitama) |
 | Qiita	| [YUJI-Nakazawa](https://qiita.com/YUJI-Nakazawa)
-| 英語 | TOEIC Score 600(日常会話レベル) |
+| English | TOEIC Score 600(日常会話レベル) |
 
 ## 概要
 クラウドアーキテクチャ設計、クラウドインフラ構築管理、基盤コード開発、DevOpsが現在の専門です。
