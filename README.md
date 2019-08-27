@@ -40,7 +40,7 @@ CircleCI | Sentry
 Ubuntu18.04 | Mac | Windows | Android
 
 ### その他
-Terraform | Docker | nginx | unicorn | Apache | Elasticsearch | Kibana | Redmine | 
+Terraform | serverless framework | Docker | nginx | unicorn | Apache | Elasticsearch | Kibana | Redmine | 
 
 ## バリューを発揮しやすい業務
 - クラウドアーキテクチャ設計
@@ -59,6 +59,8 @@ Terraform | Docker | nginx | unicorn | Apache | Elasticsearch | Kibana | Redmine
 - CDNの導入
 
 ## 主な業務経歴
+
+
 
 ## 今後挑戦してみたい分野
 ざっくりとですが以下の分野に興味があります。
