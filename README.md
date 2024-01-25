@@ -8,7 +8,7 @@
 | Location | 埼玉県 草加市(Soka-city, Saitama) |
 | Qiita	| [YUJI-Nakazawa](https://qiita.com/YUJI-Nakazawa)
 | English | TOEIC Score 650(日常会話レベル) |
-| Certification | AWS Certified Cloud Practitioner (CLF) |
+| Certification | AWSソリューションアーキテクト-アソシエイト |
 
 ## 概要
 クラウドアーキテクチャ設計、クラウドインフラ構築管理(特にAWS)、バックエンド開発が現在の専門です。
