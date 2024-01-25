@@ -31,7 +31,10 @@ MySQL | Postgres | DynamoDB
 VPC | S3 | CloudFront | API Gateway | Lambda | EC2 | ECS(Fargate) | Route53 | ACM | IAM | Cognito | SES | Cloud Formation | Cloudwatch | AWS Organizations
 
 ### CI/CD
-Github Actions | CircleCI 
+Github Actions | CircleCI
+
+# モニタリング
+NewRelic | Datadog
 
 ### その他
 Terraform | Docker
