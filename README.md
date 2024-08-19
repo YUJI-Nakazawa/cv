@@ -5,7 +5,7 @@
 | key | value |
 |:---|:---| 
 | Name | 中澤 裕司(Yuji Nakazawa) |
-| Location | 埼玉県 草加市(Soka-city, Saitama) |
+| Location | 東京都 国立市(Kunitachi-city, Tokyo) |
 | Qiita	| [YUJI-Nakazawa](https://qiita.com/YUJI-Nakazawa)
 | English | TOEIC Score 650(日常会話レベル) |
 | Certification | AWSソリューションアーキテクト-アソシエイト |
